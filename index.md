@@ -11,3 +11,18 @@ Use two hashtags to indicate an H2. To add additional levels, use the correspond
 Be sure to include description of the image in square brackets. The descriptive text is used by screen readers and when the image doesn't display such as when there is a poor connection.
 
 ![orange typewriter on a slate blue backgraound](https://avatars.githubusercontent.com/u/161896979?v=4)
+
+### Adding a code block
+
+Use three backticks at the beginning and end of code text to create a code block. Whatever content is included on the same line as the backticks does not display (see example 2). Code blocks can render differently, depending on the language.
+
+**Example 1**
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+**Example 2**
+``` javascript
+var myVar = "Hello, world!";
+```
