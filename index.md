@@ -26,3 +26,13 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+### Making a task list
+A task list has checkboxes to check off. Ensure that you observe the spacing or the list will not render correctly. When you press Enter, the next line will automatically format as the lext list item.
+
+- [ ] Let the dogs out.
+- [ ] Go outside and tell them to stop barking.
+- [ ] Go back inside and wait for them to come inside.
+- [ ] Give them a treat and tell them that they are good dogs.
+
+
+      
